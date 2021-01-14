@@ -9,8 +9,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- HTML,
-- CSS,
+- HTML
+- CSS
+- CSS Grid
 
 ## Live Demo
 
@@ -24,7 +25,7 @@ Additional description about the project and its features.
 This project is a Clone of this webpage.
 We have a cloned webpage built with following features:
 
-1. SSubscribe and Login button
+1. Subscribe and Login buttons
 2. Logo display of The New York Times
 3. Navbar including six element
 4. Images and video embeded
@@ -34,8 +35,6 @@ We have a cloned webpage built with following features:
 8. Editors’ Picks - Section
 9. Complicated footer
 
-
-To get a local copy  and to set it up and running follow these simple example steps.
 
 ### Prerequisites
 
